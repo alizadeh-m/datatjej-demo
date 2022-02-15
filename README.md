@@ -12,6 +12,7 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The deployed code can be viewed on the [demo page](https://datatjejdemo.netlify.app).
 
 
 ------------------------------------------------------------------------
