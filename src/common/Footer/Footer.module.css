@@ -1,0 +1,22 @@
+.footer {
+    display: inline;
+    text-align: center;
+    margin: 20px 0;
+    background-color: aliceblue;
+}
+
+.footerName {
+    border-top: 1px solid #C2DAE6;
+    max-width: 1024px;
+    text-align: center;
+    margin: 0 auto;
+    color: #333A3D;
+    display: block;
+    padding: 16px 0;
+}
+
+.footerLink {
+    color: #333A3D;
+    display: block;
+    padding: 16px 0;
+}

@@ -1,0 +1,35 @@
+
+.container {
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        width: max-content;
+    }
+}
+
+.main {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 56px;
+    padding-top: 36px;
+
+}
+
+.mainWrapper {
+    color: black;
+    text-align: center;
+}
+
+.heading {
+    font-size: 46px;
+    color: #333A3D
+}
+
+.notFound {
+    min-height: 100vh;
+}

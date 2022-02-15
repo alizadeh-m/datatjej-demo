@@ -1,0 +1,26 @@
+.mainWrapper {
+    color: black;
+    max-width: 1024px;
+}
+
+.sectionWrapper {
+    background-color: #C2DAE6;
+    padding: 8px 16px 16px;
+    margin: 32px 0;
+    border-radius: 15px;
+    border: 1px solid #C2DAE6;
+    display: block;
+    color: #333A3D;
+    box-shadow: 3px 3px 3px #9FB3BD;
+}
+
+.tools {
+    padding: 4px 0;
+    text-decoration: underline;
+}
+
+.link {
+    text-decoration: underline;
+    display: block;
+    padding: 4px 0;
+}

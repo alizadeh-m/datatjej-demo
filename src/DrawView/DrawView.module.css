@@ -1,0 +1,17 @@
+
+.drawingArea {
+    width: 605px;
+    height: 605px;
+    background-color: lightgrey;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+
+.wrapper {
+    padding-bottom: 16px;
+}
+
+.label {
+    display: block;
+    padding-bottom: 6px;
+}

@@ -1,0 +1,16 @@
+.postWrapper {
+  text-align: center;
+  max-width: 1024px;
+  color: #333A3D;
+}
+
+.postDate {
+  margin: 16px 0;
+}
+
+.postText {
+  margin: 36px 0;
+  max-width: 750px;
+  line-height: 24px;
+  text-align: left;
+}
